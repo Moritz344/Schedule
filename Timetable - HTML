@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+     <meta charset="UTF-8">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <title>Stundenplan</title>
+</head>
+<body>
+     <h3>Stundenplan</h3>
+     <hr>
+     <b>Zeitplan</b>
+     <table width="100" height="175" bgcolor="grey" align="left">
+          
+          
+          <th width="100"><font color="white">8:00 8:50 9:50 10:40 11:40 12:30 13:15 </th>
+          <th width="100"></th>
+          <th width="100"></th>
+          <th width="100"> </th>
+          <br>
+          
+          
+     </table>
+
+    
+     
+     
+     <table width="700" bgcolor="white" >
+
+
+          <tr bgcolor="grey">
+               <th width="100">Montag</th>
+               <th width="100">Dienstag</th>
+               <th width="100">Mittwoch</th>
+               <th width="100">Donnerstag</th>
+               <th width="100">Freitag</th>
+               
+          </tr>
+
+          
+          
+          <tr bgcolor="lightgrey" align="center">
+               <td><font color="blue">Chemie</td>
+               
+               <td><font color="blue">Mathe</td>
+               <td><font color="blue">Mathe</td>
+               <td><font color="blue">Sport</td>
+               <td><font color="brown">GL</td>
+          </tr>
+          <tr bgcolor="lightgrey" align="center">
+               <td><font color="red">Deutsch</td>
+               <td><font color="yellow">Englisch</td>
+               <td><font color="FF00FF">Religion</td>
+               <td><font color="blue">Sport</td>
+               <td><font color="yellow">Englisch</td>
+               
+          </tr>
+          <tr align="center" bgcolor="lightgrey">
+               <td><font color="blue">Mathe</td>
+               <td><font color="red">Deutsch</td>
+               <td><font color="green">Biologie</td>
+               <td><font color="red">Deutsch</td>
+               <td><font color="brown">WuV</td>
+          </tr>
+          <tr align="center" bgcolor="lightgrey">
+               <td><font color="FF00FF">Religion</td>
+               <td><font color="yellow">Englisch</td>
+               <td><font color="green">Physik</td>
+               <td><font color="yellow">Englisch</td>
+               <td><font color="brown">WuV</td>     
+          </tr>
+          <tr align="center" bgcolor="lightgrey">
+               <td><font color="blue">Informatik</td>
+               <td><font color="brown">GL</td>
+               <td><font color="brown">GL</td>
+               <td><font color="green">Biologie</td>
+               <td><font color="blue">Chemie</td>
+          </tr>
+          <tr align="center" bgcolor="lightgrey">
+               <td><font color="blue">Informatik</td>
+               <td><font color="brown">GL </td>
+               <td><font color="green">BK</td>
+               <td><font color="green">Biologie</td>
+               <td><font color="FF0000">Deutsch</td>
+               
+          </tr>
+          <tr align="center" bgcolor="lightgrey">
+               <td></td>
+               <td></td>
+               
+               <td><font color="lightgrey">BK</td>
+               <td></td>
+               <td></td>
+               
+          </tr>
+          
+     </table>
+     
+</body>
+</html>
